@@ -20,3 +20,7 @@ while (i < 6) {
 #cali tu papa
 
 a <- 2
+
+something <- 34
+v<- yuu
+
