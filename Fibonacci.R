@@ -15,3 +15,8 @@ while (i < 6) {
   print(i)
   i = i+1
 }
+
+
+#cali tu papa
+
+a <- 2
