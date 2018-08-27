@@ -21,6 +21,12 @@ while (i < 6) {
 
 a <- 2
 
+<<<<<<< HEAD
 #Testing Git#
 
 3 <- go
+=======
+something <- 34
+v<- yuu
+
+>>>>>>> 249c036e91ea0d0b77627fd8b6fb6678e94977a5
